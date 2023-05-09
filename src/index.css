@@ -16,7 +16,8 @@ p{
     text-align: center;
     font-size: x-large;
 }
-#message{
+#message{ 
+    
     color: rgb(0, 0, 0);
     font-weight: bold;
     font-style: italic;
