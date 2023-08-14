@@ -1,6 +1,6 @@
+let sum = 0;
+isAlive = true;
 function getRandomCard() {
-  let sum = 0;
-  isAlive = true;
   let randomNumber = Math.floor(Math.random() * 13) + 1;
   if (randomNumber == 1) {
     return 11;
